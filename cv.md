@@ -3,7 +3,8 @@
 
 <p> </p>
 *************
-## Contacts :
+
+## Contacts : ##
 
 1. Email   : Grodnopro@gmail.com
 2. Number  : +48502080112
@@ -26,21 +27,30 @@ previously 10 years engaged in professional sports.
 English | stage : learning 3 monthes
 Polish  | Normal talking 
 Russian | Native 
+
 ****************
+
 <p> </p>
+
 ************
 
 ##### Language programming: #####
 I didn't program
+
 *************
 <p> </p>
+
 **********
 
 ###### work experience ######
 I don't have experience work in IT.
+
 ***********
+
 <p> </p>
+
 ************
 
 ** My Education :**
+
 Specialized secondary
