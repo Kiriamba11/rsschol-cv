@@ -8,19 +8,19 @@
 
 ## Contacts : ##
 
-1. Email   : Grodnopro@gmail.com
-2. Number  : +48502080112
-3. NikName : Zanozzza(Kiriamba11)(Кирилл)#6424
+1. _Email   : Grodnopro@gmail.com_
+2. _Number  : +48502080112_
+3. _NikName : Zanozzza(Kiriamba11)(Кирилл)#6424_
 **********
 
 <p> </p>
 
 **********
 
-### About me : ###
-Starting with the goals, I would like to completely change my profession and work in the IT field.
-As for my strengths. This is purposefulness , fast learning , and the desire to develop and achieve more .
-previously 10 years engaged in professional sports.
+#### About me : ####
+_Starting with the goals, I would like to completely change my profession and work in the IT field._
+_As for my strengths. This is purposefulness , fast learning , and the desire to develop and achieve more._
+_previously 10 years engaged in professional sports_
 
 **********
 
@@ -30,9 +30,9 @@ previously 10 years engaged in professional sports.
 
 #### language proficiency: ####
 
-English | stage : learning 3 monthes
-Polish  | Normal talking 
-Russian | Native 
+1. _English | stage : learning 3 monthes_
+2. _Polish  | Normal talking_ 
+3. _Russian | Native_ 
 
 **********
 
@@ -41,7 +41,7 @@ Russian | Native
 **********
 
 ##### Language programming: #####
-I didn't program
+_I didn't program_
 
 **********
 
@@ -49,8 +49,8 @@ I didn't program
 
 **********
 
-###### work experience ######
-I don't have experience work in IT.
+#### work experience ####
+_I don't have experience work in IT._
 
 **********
 
@@ -58,6 +58,6 @@ I don't have experience work in IT.
 
 **********
 
-** My Education :**
+#### My Education : ####
 
-Specialized secondary
+_Specialized secondary_
